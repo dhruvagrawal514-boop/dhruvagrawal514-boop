@@ -6,11 +6,20 @@ Student, developer and QA intern at Evallo, building products for real-world pro
 
 ### Experience
 
-**Quality Assurance Intern** · Evallo · *Aug 2026 – Present*
-Manual testing of product features, writing and running test cases, and reporting and tracking bugs through to resolution.
+#### Quality Assurance Intern · Evallo
+`Aug 2026 – Present` · Internship
 
-**Freelance Web Developer** · [Baba Pharmaceuticals](https://babapharmaceuticals.com)
-Built the e-commerce store for an Ayurvedic medicine company: product catalogue, cart and checkout.
+- Manually test new features and releases before they go live
+- Write and run test cases, including regression checks on existing flows
+- Report bugs with clear steps to reproduce and track them with developers through to resolution
+
+#### Freelance Web Developer · [Baba Pharmaceuticals](https://babapharmaceuticals.com)
+`Freelance` · E-commerce
+
+- Designed and built the online store for an Ayurvedic medicine company
+- Organised the catalogue by health concern, with product pages, ratings and search
+- Built the cart with discount, tax and free-shipping rules, plus checkout and policy pages
+- Made the store fully responsive across desktop and mobile
 
 ### Projects
 
