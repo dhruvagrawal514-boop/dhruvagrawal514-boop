@@ -1,34 +1,28 @@
-# Hi 👋, I'm Dhruv
+## Hi, I'm Dhruv Agrawal
 
-### building tech for problems people actually have
+Student and developer building products for real-world problems in India: crop planning for farmers, government service interoperability, accessible navigation, and medicine verification. I enjoy taking an idea from problem to a shipped, working product.
 
-I'm a student and developer who builds products for real-world problems in India: helping farmers decide what to grow, joining up government services for citizens, routing wheelchair users around broken ramps, and checking that medicines are genuine. I like the full journey: finding the problem, designing the system, and shipping something people can click on.
+Open to **internships and freelance work**.
 
-I'm open to **internships and freelance work**, so feel free to reach out.
+**Currently learning:** AWS, Docker, system design and CI/CD
 
-- 💼 Freelance: built the e-commerce store for **[Baba Pharmaceuticals](https://babapharmaceuticals.com)**, an Ayurvedic medicine brand (catalogue, health-concern categories, cart and checkout)
-- 🔭 Currently building **Accesa**: accessibility-scored navigation powered by community reports
-- 🌱 Currently learning **AWS**, **Docker**, **system design**, **CI/CD with GitHub Actions** and backend engineering with **Node.js / FastAPI**
-- 📫 dhruvagrawal514@gmail.com · [LinkedIn](https://www.linkedin.com/in/dhruv-agrawal-0b8a46204)
+### Skills
 
-### Languages and tools
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,react,nodejs,firebase" height="36" alt="Python, C++, Java, HTML, CSS, React, Node.js, Firebase" />
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,fastapi,postgres,firebase,cpp,java,git,github,vscode,aws,docker&perline=17)](https://skillicons.dev)
+Also: Express, Git & GitHub, AI/LLM APIs (RAG)
 
-### Featured work
+### Work
 
-| Project | What it does | Built with |
+| Project | Description | Stack |
 |---|---|---|
-| **Baba Pharmaceuticals** · [live ↗](https://babapharmaceuticals.com) · *freelance* | E-commerce store for an Ayurvedic medicine company: product catalogue grouped by health concern, product pages, cart with discounts, tax and free-shipping threshold, checkout, and policy pages, built for desktop and mobile | HTML · CSS · JavaScript |
-| **Neev** · [live ↗](https://neev-510df.web.app/) · [code](https://github.com/dhruvagrawal514-boop/Neev) | AI crop planner for smallholder farmers: warns about crops heading for oversupply, suggests alternatives that suit the soil, and works in 22 Indian languages with voice and offline support | JavaScript · Firebase · RAG · Bhashini · mandi price data |
-| **Ekatra** · [live ↗](https://ekatra-tech.web.app/) | Interoperability prototype for state government services: one sign-in through DigiLocker/Aadhaar, consent-based data sharing between departments, and one place to track every application | REST APIs · OpenAPI · SSO · Firebase |
-| **GroundLens** · [live ↗](https://groundlens-d81fe.web.app) · [code](https://github.com/dhruvagrawal514-boop/GroundLens) | Two-sided marketplace where users post GPS-verified photo/video tasks for faraway places and local "scouts" capture them and get paid, with an AI assistant built in | JavaScript · Geolocation · AI chat · Firebase |
-| **Accesa** · [live ↗](https://accesa-io.web.app) | Navigation that gives every route a 0–100 accessibility score and updates it from photo-backed community reports of broken ramps and obstacles | Maps & routing · Crowdsourcing · Firebase |
-| **MediScan** · [live ↗](https://mediscan-47870.web.app/) · [code](https://github.com/dhruvagrawal514-boop/MediScan) | AI web app that checks whether a medicine is genuine by scanning its batch number and expiry date | React · TypeScript · Tailwind · shadcn/ui · Firebase |
+| [Baba Pharmaceuticals](https://babapharmaceuticals.com) *(freelance)* | E-commerce store for an Ayurvedic medicine company: catalogue, cart and checkout | HTML, CSS, JavaScript |
+| [Neev](https://neev-510df.web.app/) | AI crop planner that helps farmers avoid oversupplied crops, in 22 Indian languages | JavaScript, Firebase, AI |
+| [Ekatra](https://ekatra-tech.web.app/) | Prototype linking government services with one sign-in and consent-based data sharing | REST APIs, Firebase |
+| [GroundLens](https://groundlens-d81fe.web.app) | Marketplace for GPS-verified, on-demand photos of distant locations | JavaScript, Firebase, AI |
+| [Accesa](https://accesa-io.web.app) | Navigation that scores routes on accessibility using community reports | Maps, Firebase |
+| [MediScan](https://mediscan-47870.web.app/) | Verifies medicines by scanning batch number and expiry date | React, Firebase, AI |
 
-<details>
-<summary>📊 GitHub stats</summary>
-<br>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dhruvagrawal514-boop&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvagrawal514-boop&layout=compact&theme=github_dark&hide_border=true" />
-</details>
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/dhruv-agrawal-0b8a46204) · dhruvagrawal514@gmail.com
